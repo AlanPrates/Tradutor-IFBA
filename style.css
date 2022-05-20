@@ -6,14 +6,11 @@
   box-sizing: border-box;
   font-family: 'Poppins';
 }
-
 body {
-  width: 100vw;
-  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #5740a1;
+  background-color: #060606;
 }
 
 .container {
@@ -25,8 +22,9 @@ body {
   margin: 5px;
 }
 
-h1 {
-  color: white;
+h4 {
+
+  color: w;
   letter-spacing: 1px;
 }
 
@@ -75,7 +73,7 @@ button{
   padding: 10px;
   font-size: 18px;
   border: none;
-  background-color: #5740a1;
+  background-color: #060606;
   color: white;
   border-radius: 5px;
   font-weight: 600;
@@ -87,3 +85,10 @@ button{
 button:hover {
   opacity: 0.9;
 }
+
+.perfil {
+  height: 200px;
+  text-align: center;
+  margin-top: 10px;
+}
+
