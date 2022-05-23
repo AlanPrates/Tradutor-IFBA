@@ -14,9 +14,9 @@ const countries = {
 selects.forEach((tag) => {
   for (let country in countries) {
     let selected;
-    if (tag.className.includes("selectFrom") && country == "pt-BR") {
+    if (tag.className.includes("selectFrom") && country == "en-GB") {
       selected = "selected";
-    } else if (tag.className.includes("selectTo") && country == "en-GB") {
+    } else if (tag.className.includes("selectTo") && country == "pt-BR") {
       selected = "selected";
     }
 
