@@ -187,3 +187,8 @@ button:hover {
   margin-top: 10px;
 }
 
+.footer {
+  margin-top: 100px;
+  text-align: center;
+  color: #eb7704;
+}
