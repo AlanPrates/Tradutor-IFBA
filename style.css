@@ -7,12 +7,12 @@
   font-family: 'Poppins';
 }
 body {
-  height: 100vh;
+  height: 100%;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: radial-gradient(circle at 50% 40%, #fcfcfc, #eb7704);
+  background: radial-gradient(circle at 50% 50%, #fcfcfc, #eb7704);
 }
 .containereye {
   height: 300px;
